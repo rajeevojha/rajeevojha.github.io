@@ -1,0 +1,52 @@
+<section id="projects" class="bg-white py-12">
+  <div class="container mx-auto px-4">
+    <h2 class="text-3xl font-bold text-center mb-6">Projects</h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <div class="sticky-note bg-yellow-100 p-6 rounded-lg shadow-md">
+        <h3 class="text-xl font-semibold font-caveat">Project 1</h3>
+        <p class="text-gray-600 mt-2 font-caveat text-lg">A brief description of your project. Built with [Tech Stack].</p>
+        <a href="#" class="text-blue-600 hover:underline mt-4 inline-block font-caveat">View on GitHub</a>
+      </div>
+      <div class="sticky-note bg-yellow-100 p-6 rounded-lg shadow-md">
+        <h3 class="text-xl font-semibold font-caveat">Project 2</h3>
+        <p class="text-gray-600 mt-2 font-caveat text-lg">A brief description of your project. Built with [Tech Stack].</p>
+        <a href="#" class="text-blue-600 hover:underline mt-4 inline-block font-caveat">View on GitHub</a>
+      </div>
+      <div class="sticky-note bg-yellow-100 p-6 rounded-lg shadow-md">
+        <h3 class="text-xl font-semibold font-caveat">Project 3</h3>
+        <p class="text-gray-600 mt-2 font-caveat text-lg">A brief description of your project. Built with [Tech Stack].</p>
+        <a href="#" class="text-blue-600 hover:underline mt-4 inline-block font-caveat">View on GitHub</a>
+      </div>
+      <div class="sticky-note bg-yellow-100 p-6 rounded-lg shadow-md">
+        <h3 class="text-xl font-semibold font-caveat">Project 4</h3>
+        <p class="text-gray-600 mt-2 font-caveat text-lg">A brief description of your project. Built with [Tech Stack].</p>
+        <a href="#" class="text-blue-600 hover:underline mt-4 inline-block font-caveat">View on GitHub</a>
+      </div>
+      <div class="sticky-note bg-yellow-100 p-6 rounded-lg shadow-md">
+        <h3 class="text-xl font-semibold font-caveat">Project 5</h3>
+        <p class="text-gray-600 mt-2 font-caveat text-lg">A brief description of your project. Built with [Tech Stack].</p>
+        <a href="#" class="text-blue-600 hover:underline mt-4 inline-block font-caveat">View on GitHub</a>
+      </div>
+      <div class="sticky-note bg-yellow-100 p-6 rounded-lg shadow-md">
+        <h3 class="text-xl font-semibold font-caveat">Project 6</h3>
+        <p class="text-gray-600 mt-2 font-caveat text-lg">A brief description of your project. Built with [Tech Stack].</p>
+        <a href="#" class="text-blue-600 hover:underline mt-4 inline-block font-caveat">View on GitHub</a>
+      </div>
+      <div class="sticky-note bg-yellow-100 p-6 rounded-lg shadow-md">
+        <h3 class="text-xl font-semibold font-caveat">Project 7</h3>
+        <p class="text-gray-600 mt-2 font-caveat text-lg">A brief description of your project. Built with [Tech Stack].</p>
+        <a href="#" class="text-blue-600 hover:underline mt-4 inline-block font-caveat">View on GitHub</a>
+      </div>
+      <div class="sticky-note bg-yellow-100 p-6 rounded-lg shadow-md">
+        <h3 class="text-xl font-semibold font-caveat">Project 8</h3>
+        <p class="text-gray-600 mt-2 font-caveat text-lg">A brief description of your project. Built with [Tech Stack].</p>
+        <a href="#" class="text-blue-600 hover:underline mt-4 inline-block font-caveat">View on GitHub</a>
+      </div>
+      <div class="sticky-note bg-yellow-100 p-6 rounded-lg shadow-md">
+        <h3 class="text-xl font-semibold font-caveat">Project 9</h3>
+        <p class="text-gray-600 mt-2 font-caveat text-lg">A brief description of your project. Built with [Tech Stack].</p>
+        <a href="#" class="text-blue-600 hover:underline mt-4 inline-block font-caveat">View on GitHub</a>
+      </div>
+    </div>
+  </div>
+</section>
