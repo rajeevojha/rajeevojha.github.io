@@ -1,4 +1,25 @@
-.project-card:hover {
-  transform: translateY(-5px);
-  transition: transform 0.3s ease-in-out;
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  overflow: hidden;
+}
+.sticky-note {
+  transform: rotate(2deg);
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  min-height: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.sticky-note:nth-child(3n) {
+  transform: rotate(-2deg);
+}
+.sticky-note:nth-child(3n+2) {
+  transform: rotate(1deg);
+}
+.sticky-note:hover {
+  transform: translateY(-10px) rotate(0deg);
+  box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.3);
 }
